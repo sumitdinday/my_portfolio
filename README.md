@@ -1,6 +1,5 @@
 <h1 align="center">Portfolio Website</h1>
-
-
+ <a href="https://sumitdinday.github.io/my_portfolio/" target="_blank">Direct link for portfolio web</a>
 
 ## :checkered_flag: Starting ##
 
